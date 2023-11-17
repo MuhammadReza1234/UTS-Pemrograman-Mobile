@@ -221,8 +221,3 @@ public void back1(View view) {
 ---
 
 <h1 <p align="center"><b>======== Sekian Terima Kasih ==========</b></p></h1>
-t (363)](https://github.com/rniarzz/UTS-PEMROGRAMAN-MOBILE/assets/115542704/e2c01031-70e2-48d6-9389-e8f06cb0786a)
-
----
-
-<h1 <p align="center"><b>======== Sekian Terima Kasih ==========</b></p></h1>
